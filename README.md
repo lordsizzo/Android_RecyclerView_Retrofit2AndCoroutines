@@ -7,7 +7,7 @@ nuestra app sea mas ligera al momento de instalarla.
 ### Descripción
 
 Con esta app podrás leer tu API Rest con retrofit2 e implementando corrutinas en 2do plano asi mismo mostrarlo en un reclyclerview y su swiperefresh, una
-app sencilla pero potente.
+app sencilla pero potente ademas de leer el API desde el adapter con unos listeners.
 
 # 
 ### Languages and Tools used:
